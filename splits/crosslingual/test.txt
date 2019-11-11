@@ -318,6 +318,7 @@ fantasy
 farm
 fascinate
 fat
+father
 fatigued
 fault
 favor
