@@ -1,4 +1,4 @@
-# X-ANEW: The Extended Affective Norms for English Words
+# XANEW: The Extended Affective Norms for English Words
 
 This repository serves as a secondary distribution of the emotional word ratings provided by:
 
